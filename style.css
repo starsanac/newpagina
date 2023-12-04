@@ -11,7 +11,7 @@ body {
     padding: 30px;
 }
 
-h1  {
+.titulo-centralizado {
     text-align: center
 }
 p {
@@ -34,9 +34,8 @@ em strong {
     padding: 20px;
 }
 
-h2 {
-    text-align: center;
-}
+
+
 ul { 
     display: inline-block;
     vertical-align: top;
